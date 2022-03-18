@@ -7,7 +7,7 @@ De plus, le développement de l’application mobile permettra de construire une
 
 # Les données :
 Le jeu de données est  constitué des images de fruits et des labels associés, qui pourra servir de point de départ pour construire une partie de la chaîne de traitement des données.
-(Lien :)[https://www.kaggle.com/moltean/fruits]
+[Lien :](https://www.kaggle.com/moltean/fruits)
 
 # La mission :
 Vous êtes donc chargé de développer dans un environnement Big Data une première chaîne de traitement des données qui comprendra le preprocessing et une étape de réduction de dimension.
